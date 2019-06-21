@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<head>
+  <title>My GitHub Website</title>
+</head>
+<body>
+  <h1>My GitHub Website</h1>  
+</body>
