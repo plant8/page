@@ -1,6 +1,6 @@
 # イロハポン
 
-![alt](../images/iro_icon.png)
+![alt](images/iro_icon.png)
 
 ## 更新
 ファミ通appでも取り上げていただいた、  
@@ -16,9 +16,9 @@
 １つは同じ色の組み合わせを作るゲーム。  
 もう１つは様々な色や形の6ピースパズルです。
 
-[![jp](../images/store.png)](https://itunes.apple.com/jp/app/irohapon/id1346961861?l=ja&amp;ls=1&amp;mt=8) JP
+[![jp](images/store.png)](https://itunes.apple.com/jp/app/irohapon/id1346961861?l=ja&amp;ls=1&amp;mt=8) JP
 
 
-[![us](../images/store.png)](https://itunes.apple.com/us/app/irohapon/id1346961861?l=ja&amp;ls=1&amp;mt=8) US
+[![us](images/store.png)](https://itunes.apple.com/us/app/irohapon/id1346961861?l=ja&amp;ls=1&amp;mt=8) US
 
 [参考資料 : 付表 1  慣用色名](http://manabite0.g.hatena.ne.jp/manabite/20070103)

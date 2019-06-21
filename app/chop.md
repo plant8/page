@@ -1,6 +1,6 @@
 # イチニノサンプラー
 
-![alt](../images/chop_icon.png)
+![alt](images/chop_icon.png)
 
 
 ## イチニノサンプラーとは?
@@ -16,7 +16,7 @@
 [demo](https://youtu.be/87LinjSA-Nw
 )
 
-[![jp](../images/store.png)](https://itunes.apple.com/jp/app/12sampler/id1446760908?l=ja&amp;ls=1&amp;mt=8) JP
+[![jp](images/store.png)](https://itunes.apple.com/jp/app/12sampler/id1446760908?l=ja&amp;ls=1&amp;mt=8) JP
 
 You can record and play.
 
@@ -36,4 +36,4 @@ If you raise the volume too much,
 There is a danger of damage to equipment.
 
 
-[![us](../images/store.png)](https://itunes.apple.com/us/app/12sampler/id1446760908?l=ja&amp;ls=1&amp;mt=8) US
+[![us](images/store.png)](https://itunes.apple.com/us/app/12sampler/id1446760908?l=ja&amp;ls=1&amp;mt=8) US

@@ -1,30 +1,30 @@
 # app
 
-[★アノパズル](app/iroc)
+[★アノパズル](iroc)
 
-[☆イロハポン](app/iro)
+[☆イロハポン](iro)
 
-[イチニノサンプラー](app/chop)
+[イチニノサンプラー](chop)
 
-[フリダヤ２](app/zen)
+[フリダヤ２](zen)
 
-[お皿カメラ](app/camdish)
+[お皿カメラ](camdish)
 
-[ひかりノート](app/note)
+[ひかりノート](note)
 
-[猫と四字熟語](app/candy)
+[猫と四字熟語](candy)
 
-[四字熟語まりも付き](app/marimo)
+[四字熟語まりも付き](marimo)
 
-[毎日漢字クロスワード](app/crosskanji)
+[毎日漢字クロスワード](crosskanji)
 
-[毎日クロスワード](app/cross)
+[毎日クロスワード](cross)
 
-[ハヤブサ電卓](app/hayabusa)
+[ハヤブサ電卓](hayabusa)
 
-[チックンポイポイ](app/hiyoko)
+[チックンポイポイ](hiyoko)
 
-[カムザムライ](app/camsamurai)
+[カムザムライ](camsamurai)
 
 # web
 

@@ -1,6 +1,6 @@
 # お皿カメラ
 
-![alt](../images/cam_icon.png)
+![alt](images/cam_icon.png)
 
 
 ## お皿カメラとは?
@@ -29,7 +29,7 @@
 
 ※反社会的行為への利用禁止
 
-[![jp](../images/store.png)](https://itunes.apple.com/jp/app/camdish/id1161278087?l=ja&amp;ls=1&amp;mt=8) JP
+[![jp](images/store.png)](https://itunes.apple.com/jp/app/camdish/id1161278087?l=ja&amp;ls=1&amp;mt=8) JP
 
 What is the Flashcard Hime?
 
@@ -38,4 +38,4 @@ With a horizontal instrument.
 Simple action.
 
 
-[![us](../images/store.png)](https://itunes.apple.com/us/app/camdish/id1161278087?l=ja&amp;ls=1&amp;mt=8) US
+[![us](images/store.png)](https://itunes.apple.com/us/app/camdish/id1161278087?l=ja&amp;ls=1&amp;mt=8) US
