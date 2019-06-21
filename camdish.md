@@ -1,6 +1,3 @@
-[twitter:card]:- "summary"
-[twitter:site]:- "@factory_8"
-
 # お皿カメラ
 
 ![alt](images/cam_icon.png)
