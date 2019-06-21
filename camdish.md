@@ -1,3 +1,12 @@
+---
+twitter:card: summary
+twitter:site: @factory_8
+og:url: https://kankyo.tk/camdish
+og:title: お皿カメラ
+og:description: カメラアプリです
+og:image: images/cam_icon.png
+---
+
 # お皿カメラ
 
 ![alt](images/cam_icon.png)
