@@ -1,3 +1,7 @@
+---
+title: factory
+---
+
 ## app
 
 [★アノパズル](iroc)
