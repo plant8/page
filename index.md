@@ -25,10 +25,6 @@
 
 [カムザムライ](camsamurai)
 
-## web
-
-[菅江真澄五百](https://n.matazo.net/)
-
 
 
 ## contact
