@@ -26,13 +26,13 @@ lo-fiな感じに録音できます。
 [![jp](images/store.png)](https://itunes.apple.com/jp/app/12sampler/id1446760908?l=ja&amp;ls=1&amp;mt=8) JP
 
 
-・Record the pattern.
-・Adjust the volume with each sound.
-・Adjust the pitch with each sound.
-・Adjust playback speed for each sound.
-・Cut bass or treble.
-・Record at a low sampleRate.
-・Do undo with recording
+* Record the pattern.
+* Adjust the volume with each sound.
+* Adjust the pitch with each sound.
+* Adjust playback speed for each sound.
+* Cut bass or treble.
+* Record at a low sampleRate.
+* Do undo with recording
 
 You can record and play.
 
