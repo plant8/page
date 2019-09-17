@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>https://kankyo.tk/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>jp</language>
     <lastBuildDate>Tue, 17 Sep 2019 13:52:59 +0900</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kankyo.tk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Test2</title>
-      <link>http://example.org/post/test2/</link>
+      <link>https://kankyo.tk/post/test2/</link>
       <pubDate>Tue, 17 Sep 2019 13:52:59 +0900</pubDate>
       
-      <guid>http://example.org/post/test2/</guid>
+      <guid>https://kankyo.tk/post/test2/</guid>
       <description>イチニノサンプラー 更新  パータンを記録できます。 各音でボリュームをいじる。 各音でピッチをいじる。 各音で再生速度をいじる。 低音を切ったり高音を切ったり。 音を悪く録音できます。 録音でundoを使えます。  イチニノサンプラーとは? お手軽サンプラーです。 工夫して録音すると良い感じになります。
 lo-fiな感じに録音できます。
 ボタンを押して離すだけで録音ができます。
@@ -32,10 +32,10 @@ Start recording by pressing numerical button.</description>
     
     <item>
       <title>Test</title>
-      <link>http://example.org/post/test/</link>
+      <link>https://kankyo.tk/post/test/</link>
       <pubDate>Tue, 17 Sep 2019 13:45:49 +0900</pubDate>
       
-      <guid>http://example.org/post/test/</guid>
+      <guid>https://kankyo.tk/post/test/</guid>
       <description>こんいちわ</description>
     </item>
     
