@@ -1,15 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on factory</title>
     <link>https://kankyo.tk/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on factory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>jp</language>
-    <lastBuildDate>Tue, 17 Sep 2019 13:52:59 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2019 16:27:11 +0900</lastBuildDate>
     
 	<atom:link href="https://kankyo.tk/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chop</title>
+      <link>https://kankyo.tk/post/chop/</link>
+      <pubDate>Tue, 17 Sep 2019 16:27:11 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/chop/</guid>
+      <description>イチニノサンプラー 更新  パータンを記録できます。 各音でボリュームをいじる。 各音でピッチをいじる。 各音で再生速度をいじる。 低音を切ったり高音を切ったり。 音を悪く録音できます。 録音でundoを使えます。  イチニノサンプラーとは? お手軽サンプラーです。 工夫して録音すると良い感じになります。
+lo-fiな感じに録音できます。
+ボタンを押して離すだけで録音ができます。
+ボタンを押した順番を少し記録できます。
+著作権は守りましょう。
+demo
+ JP
+ Record the pattern. Adjust the volume with each sound. Adjust the pitch with each sound. Adjust playback speed for each sound. Cut bass or treble. Record at a low sampleRate. Do undo with recording  You can record and play.
+Let’s record.
+Choose “rec”.
+Start recording by pressing numerical button.</description>
+    </item>
     
     <item>
       <title>Test2</title>
