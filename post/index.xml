@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on factory</title>
+    <link>https://kankyo.tk/post/</link>
+    <description>Recent content in Posts on factory</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <lastBuildDate>Thu, 25 Jun 2020 09:54:24 +0900</lastBuildDate>
+    
+	<atom:link href="https://kankyo.tk/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>フリダヤ5</title>
+      <link>https://kankyo.tk/post/zen5/</link>
+      <pubDate>Thu, 25 Jun 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/zen5/</guid>
+      <description>お知らせ 2020.6.28開始
+ フリダヤ5とは? 般若心経を気軽に体験できるアプリです。
+頭のトレーニングに最適です。
+ルールは単純です。
+お教の順番通りに文字を見つけその文字をタッチします。
+(一定時間が経過すると答えの文字がが赤くなります)
+すべての文字をタッチすると終了です。
+正解すると徳が入手できます。
+徳が1000以上貯まるとで運試しができます。
+ JP
+ What is the Hrdaya5? The rules are simple.
+Find the letters in the order in the sutra and touch them.
+(After a certain amount of time, the answer letter turns red)
+Touch all the letters and you&amp;rsquo;re done.
+If you answer correctly, you can get the virtue.
+If you accumulate more than 1000 virtue, you can try your luck.</description>
+    </item>
+    
+    <item>
+      <title>イチニノサンプラー</title>
+      <link>https://kankyo.tk/post/chop/</link>
+      <pubDate>Mon, 25 May 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/chop/</guid>
+      <description>お知らせ パータンを記録できます。
+各音でボリュームをいじる。
+各音でピッチをいじる。
+各音で再生速度をいじる。
+低音を切ったり高音を切ったり。
+音を悪く録音できます。
+録音でundoを使えます。
+demo
+ イチニノサンプラーとは? お手軽サンプラーです。
+工夫して録音すると良い感じになります。
+lo-fiな感じに録音できます。
+ボタンを押して離すだけで録音ができます。
+ボタンを押した順番を少し記録できます。
+著作権は守りましょう。
+  JP
+ information Record the pattern.
+Adjust the volume with each sound.
+Adjust the pitch with each sound.
+Adjust playback speed for each sound.
+Cut bass or treble.
+Record at a low sampleRate.
+Do undo with recording
+ You can record and play. Let’s record.
+Choose “rec”.
+Start recording by pressing numerical button.</description>
+    </item>
+    
+    <item>
+      <title>イロハポン</title>
+      <link>https://kankyo.tk/post/iro/</link>
+      <pubDate>Mon, 25 May 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/iro/</guid>
+      <description> お知らせ ファミ通appでも取り上げていただいた、
+このアプリが大規模にアップデート!!
+遊べるゲームが２つ増え 全部で３つになりました。
+１つは同じ色の組み合わせを作るゲームです。
+もう１つは様々な色や形の6ピースパズルです。
+ イロハポンとは? 日本の伝統色を題材にしたゲームです。
+まずは名前から色を推測するゲーム。
+１つは同じ色の組み合わせを作るゲーム。
+もう１つは様々な色や形の6ピースパズルです。
+  JP
+ information  US
+ source 付表 1 慣用色名
+ </description>
+    </item>
+    
+    <item>
+      <title>やさしいパズル</title>
+      <link>https://kankyo.tk/post/ez/</link>
+      <pubDate>Wed, 25 Mar 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/ez/</guid>
+      <description> お知らせ  やさしいパズルとは? 色と形を手がかりに解くパズルです。
+パズルの部品は指で移動できます。
+移動している部品は灰色の点の上で指を離すと設置できます。
+部品を全部設置し綺麗なグラデーションをつくりましょう。
+ JP
+ information This puzzle solves colors and shapes.
+You can move the puzzle parts with your finger.
+Moving parts can be placed by releasing your finger on the gray dot.
+Install all the parts and create a beautiful gradation.
+ US
+ source  </description>
+    </item>
+    
+    <item>
+      <title>デンタクー</title>
+      <link>https://kankyo.tk/post/dentaku/</link>
+      <pubDate>Tue, 25 Feb 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/dentaku/</guid>
+      <description> お知らせ  デンタクーとは? イコールを廃止した電卓です。
+1日100回イコールを押す場合、年間3万6千5百回。
+イコール押すのに1回2秒かかると仮定すると、
+なんと年間7万3千秒の節約となります。
+これぞ働き方改革です。
+機能は入力の度に計算を行います。 スライダーで小数の調整ができます。
+四捨五入もできます。
+消費税の計算も自動で表示されます。
+税率も変更可能です。
+ピンクの棒が北を向くとブルっと振動します。
+(コンパスが誤った方角を指している場合は補正して下さい。)
+水平器付きです。
+ JP
+ </description>
+    </item>
+    
+    <item>
+      <title>アノパズル</title>
+      <link>https://kankyo.tk/post/iroc/</link>
+      <pubDate>Fri, 24 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/iroc/</guid>
+      <description> お知らせ  アノパズルとは? 色合わせパズルです。
+9x9の面の色を全て揃えるとパズルの完成です。
+スピードキューブのルールで解くことができます。
+ JP
+ information It is a color matching puzzle.
+The puzzle is completed when all the colors of the 9x9 face are aligned.
+It can be solved with the technique of the speed cube.
+ US
+ </description>
+    </item>
+    
+    <item>
+      <title>フリダヤタッチ2</title>
+      <link>https://kankyo.tk/post/zen/</link>
+      <pubDate>Wed, 22 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/zen/</guid>
+      <description> お知らせ  フリダヤタッチ2とは? このアプリは般若心経を気軽に体験できます。
+ルールは単純です。
+バラバラになったお教の中から、
+お教の順番通りに文字を見つけその文字をタッチします。 (ヒントが円の中心に表示されるので、初めて遊ぶ方でもクリア可能です。)
+すべての文字をタッチするとクリアです。
+クリアまでの時間を競います。
+ JP
+ information What is the Hrdaya Touch?
+Feel the Hrdaya.
+How to play
+ Focus on the character in the center of the circle. Look for the character from the outside of the circle. Find and tap.
+Compete for time to fill.   US
+ source 効果音: 無料効果音で遊ぼう！
+フォント: 青柳隷書しも
+ </description>
+    </item>
+    
+    <item>
+      <title>お皿カメラ</title>
+      <link>https://kankyo.tk/post/camdish/</link>
+      <pubDate>Tue, 21 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/camdish/</guid>
+      <description> お知らせ  お皿カメラとは? 料理を完璧な角度で写真に残したい。
+そんな夢をかなえるカメラアプリです。
+誰でも簡単にラインにあわせて撮影するだけで
+加工しやすい写真素材が作成できます。
+撮影が終わったらお気に入りの写真加工アプリに
+読み込んでワンランク上の1枚を作りましょう。
+機能追加 : 黄金比での撮影が可能になりました。
+静かな店内でも撮影できるように、
+シャッター音をマイルドにチューニング済み。
+ガイドは45度、俯瞰(真上)撮りが選べます。
+縦横の水平器もありますのでこだわりの角度での
+撮影も可能です。
+ロウモード(LOW MODE)
+ 解像度 : 最大3840x2160 シャッター音 : マイルド  ハイモード(HIGH MODE)
+ 解像度 : 標準 シャッター音 : 標準  ※反社会的行為への利用禁止
+ JP
+ information What is the Flashcard Hime?
+You can take pictures with a perfect angle cooking!
+With a horizontal instrument.
+Simple action.
+ US
+ </description>
+    </item>
+    
+    <item>
+      <title>ハヤブサ電卓</title>
+      <link>https://kankyo.tk/post/hayabusa/</link>
+      <pubDate>Mon, 20 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/hayabusa/</guid>
+      <description> お知らせ  ハヤブサ電卓とは? このアプリは数字を入力するとドンドン計算されます
+とっても便利な水平器付き
+ 自動計算はいろいろ 入力した数字の半分 入力した数字の倍 入力した数字の円周 入力した数字の円の面積 割り算の答えとあまり 入力した数字の消費税など   JP
+ information What is the CalculatorHayabusa?
+This app is a revolutionary calculator.
+With a horizontal instrument.
+Automatic calculation
+ Half Double Circumference Area of a Circle Remainder Tax JP and so forth   US
+ </description>
+    </item>
+    
+    <item>
+      <title>ひかりノート</title>
+      <link>https://kankyo.tk/post/note/</link>
+      <pubDate>Sun, 19 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/note/</guid>
+      <description> お知らせ  ひかりノートとは? 簡単操作のノートです。
+簡易な色分けもできます。
+音声読み上げ機能付き。
+単語の検索機能も実装。
+工夫次第で色々な使い方ができると思います。
+例えば暗記カードやToDoリストなどに。
+使い方は 赤い+ボタンを押してノートを作ります。
+ノートをタップで編集へ。
+編集画面ではメインノートとサブノートへ文字の入力と
+タグを利用した色分け・削除・検索。
+ノートをダブルタップでマーキング。
+チラ見機能としてノートを右から左へスワイプすることで
+サブノートの中身の一部をチェックできます。
+設定ボタンから色ごとの削除も可能です。
+おまけで外部からのテキスト追加機能があります。
+ファイルAPPのadd.csvに記入した文字が起動時に登録。
+登録したデータが破損しても保証はありません。
+ JP
+ </description>
+    </item>
+    
+    <item>
+      <title>毎日漢字クロスワード</title>
+      <link>https://kankyo.tk/post/crosskanji/</link>
+      <pubDate>Sat, 18 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/crosskanji/</guid>
+      <description> お知らせ  毎日漢字クロスワードとは? 毎日シリーズ第2弾今度は漢字クロスワード!
+今回犬を搭載しました。
+毎日クリアするたびに犬が大きくなります。
+プレイ方法は四角形の白マスをタッチしてキーを選び、
+5つの丸の中から当てはまる文字を選ぶだけ。
+使いにくいキーボードもありません。
+複雑な操作が苦手な方でもこのアプリなら簡単操作でクロスワードを楽しめます。
+間違いは文字が赤く表示されます。
+さらに、スマホのクロスワードは文字が小さくて見辛いモノが大半ですが、
+ご安心ください。文字を大きくし見やすく致しました。
+5x5マスの小さなパズルなのでちょっとした時間で脳をトレーニングできます。
+しかも毎日問題が変わるので365日楽しめます。
+ JP
+ information  US
+ source 効果音: 無料効果音で遊ぼう！
+ </description>
+    </item>
+    
+    <item>
+      <title>毎日クロスワード</title>
+      <link>https://kankyo.tk/post/cross/</link>
+      <pubDate>Fri, 17 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/cross/</guid>
+      <description> お知らせ  毎日クロスワードとは? 今までのクロスワードには難しい操作が必要でした。しかし、もう大丈夫!
+四角形の青色マスをタッチしてキーを選び、
+5つの丸の中から当てはまる文字を選ぶだけ。
+使いにくいキーボードもありません。
+複雑な操作が苦手な方でもこのアプリなら簡単操作でクロスワードを楽しめます。
+さらに、スマホのクロスワードは文字が小さくて見辛いモノが大半ですが、ご安心ください。文字を大きくし見やすく致しました。
+5x5マスの小さなパズルなのでちょっとした時間で脳をトレーニングできます。
+しかも毎日問題が変わるので365日楽しめます。
+ JP
+ information  US
+ source 効果音: 無料効果音で遊ぼう！
+ </description>
+    </item>
+    
+    <item>
+      <title>猫と四字熟語</title>
+      <link>https://kankyo.tk/post/candy/</link>
+      <pubDate>Thu, 16 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/candy/</guid>
+      <description> お知らせ  猫と四字熟語とは? 猫と四字熟語とは?
+四字熟語を当てるゲームです。
+最初にバラバラの文字が落下します。
+その文字の中から正しい順番で
+四文字をタッチするだけです。
+操作がとても簡単なのでどなたでも
+遊んでいただけると思います。
+ミスなく問題を解くと難易度が上がります。
+パーフェクトを目指しましょう。
+プレイのたびに猫が育ちます。
+※辞書・検索機能つき
+ JP
+ information  US
+ </description>
+    </item>
+    
+    <item>
+      <title>カムザムライ</title>
+      <link>https://kankyo.tk/post/camsamurai/</link>
+      <pubDate>Mon, 13 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/camsamurai/</guid>
+      <description> お知らせ  カムザムライとは? このアプリはカッコよくトリミングできます。
+操作はとても簡単!　画像を選んでスワイプするだけです。
+小顔だって作れます。
+使い方無限大!
+面白い写真をつくろう!
+ JP
+ information What is the CamSamurai?
+This app can be artistically trimming the image.
+Just swipe to select an image.
+Let’s make a funny image!
+ US
+ </description>
+    </item>
+    
+    <item>
+      <title>チックンポイポイ</title>
+      <link>https://kankyo.tk/post/hiyoko/</link>
+      <pubDate>Sat, 11 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/hiyoko/</guid>
+      <description> お知らせ  チックンポイポイとは? プレーヤーはひよこ工場社員となり
+ひよこのオス・メスを判別する作業を
+長期的に体験できるゲームです。
+単純な作業ゲームです!
+ JP
+ information What is the Chick&amp;rsquo;n PoiPoi?
+Sorted the chick.
+Very simple task game!
+ US
+ </description>
+    </item>
+    
+    <item>
+      <title>プライバシーポリシー</title>
+      <link>https://kankyo.tk/post/privacypolicy/</link>
+      <pubDate>Thu, 09 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/privacypolicy/</guid>
+      <description>本プライバシーポリシーは、kankyo（以下、「当方」といいます。）が、 提供するアプリケーション（以下、「本アプリ」といいます。）におけるプライバシー情報の取扱いについて定めるものです。
+第1条（プライバシー情報） 本プライバシーポリシーにおいて「個人情報」とは，個人情報保護法にいう，生存する個人に関する情報であって，当該情報に含まれる氏名，住所，電話番号， メールアドレス及びその他の記述等により特定の個人を識別することができるもの（他の情報と容易に照合することができ，それにより特定の個人を識別することができることとなるものを含む）をいいます。
+第2条（個人情報の収集） (1) 当方は，個人情報の入手を適法かつ公正な手段によって行うものとし，ユーザーの意思に反する不正な入手を行わないものとします。 (2) 当方は，個人情報を収集する場合，その利用目的をあらかじめ通知又は公表するものとします。
+第3条（個人情報の第三者提供） (1) 当方は，次に掲げる場合を除いて，あらかじめ通知又は公表することなく，第三者に個人情報を提供することはありません。ただし，個人情報保護法その他の法令で認められる場合を除きます。 ・法令に基づく場合 ・人の生命，身体または財産の保護のために必要がある場合であって，本人の同意を得ることが困難であるとき ・公衆衛生の向上または児童の健全な育成の推進のために特に必要がある場合であって，本人の同意を得ることが困難であるとき ・国の機関もしくは地方公共団体またはその委託を受けた者が法令の定める事務を遂行することに対して協力する必要がある場合であって，本人の同意を得ることにより当該事務の遂行に支障を及ぼすおそれがあるとき ・予め次の事項を告知あるいは公表をしている場合 1.利用目的に第三者への提供を含むこと 2.第三者に提供されるデータの項目 3.第三者への提供の手段または方法 (2) 前項の定めにかかわらず，次に掲げる場合は第三者には該当しないものとします。 ・当社が利用目的の達成に必要な範囲内において個人情報の取扱いの全部または一部を委託する場合 ・合併その他の事由による事業の承継に伴って個人情報が提供される場合 ・個人情報を特定の者との間で共同して利用する場合であって，その旨並びに共同して利用される個人情報の項目，共同して利用する者の範囲，利用する者の利用目的および当該個人情報の管理について責任を有する者の氏名または名称について，あらかじめ本人に通知し，または本人が容易に知り得る状態に置いているとき
+第4条（外部送信）
+(1) 本アプリは、広告配信を目的として、以下の広告配信事業者が、ユーザーの情報を取得します。 取得情報、利用目的等につきましては、以下に記載されているプライバシーポリシーのURLにてご確認ください。 Google Inc 事業者プライバシーポリシー https://www.google.com/intl/ja/policies/technologies/ads/
+(2) 本アプリは、サービスの利用状況を把握するため、Firebaseを利用しております。 FireBaseの利用により収集されたデータは、以下の事業者のプライバシーポリシーに基づき管理されます。 以下に記載されているプライバシーポリシーのURLにてご確認ください。 Google Inc 事業者プライバシーポリシー https://www.google.com/intl/ja/policies/privacy/ Firebaseについて https://firebase.google.com/terms/?hl=ja
+第5条（個人情報等の管理） 当方は，個人情報保護法及び行政書士法に基づき個人情報等を厳重に管理し機密保持に努めるものとします。 ただし，当方は，情報の漏洩，消失，他者による改ざん等が完全に防止されることについてのユーザーに対する保証を一切行わないものとします。
+第6条（個人情報の開示） 当方は，ユーザーより当該ユーザーの個人情報の照会・訂正・追加・削除・利用の停止又は消去を求められた場合，本人確認を行うものとします。 なお，当方は，ユーザー本人による照会等であると当方が判断した場合，合理的な期間内に同照会等に対応するものとします。
+第6条（利用目的等の変更） 個人情報の利用目的及び管理方法等の変更等，本プライバシーポリシーの変更は，当方が変更後のプライバシーポリシーを本サイト上に掲載した時点で効力を生じるものとします。
+第7条（お問い合わせ窓口） 本プライバシーポリシーに関するお問い合わせは，下記の窓口までお願いいたします。 Eメール：envdesignoffice@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>利用規約</title>
+      <link>https://kankyo.tk/post/terms/</link>
+      <pubDate>Tue, 07 Jan 2020 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/terms/</guid>
+      <description>利用規約 この利用規約（以下、「本規約」といいます。）は、kankyo（以下、「当方」といいます。）がこのウェブサイト上で提供するサービスおよび当方が開発したアプリケーション（以下、「本サービス」といいます。）の利用条件を定めるものです。 ユーザーの皆さま（以下、「ユーザー」といいます。）には、本規約に従って、本サービスをご利用いただきます。
+第1条（適用） 本規約は、ユーザーと当方との間の本サービス、の利用に関わる一切の関係に適用されるものとします。
+第2条（禁止事項） ユーザーは、本サービス、の利用にあたり、以下の行為をしてはなりません。
+（1）法令または公序良俗に違反する行為 （2）犯罪行為に関連する行為 （3）当方のサーバーまたはネットワークの機能を破壊したり、妨害したりする行為 （4）当方のサービスの運営を妨害するおそれのある行為 （5）当方のサービスに関連して、反社会的勢力に対して直接または間接に利益を供与する行為 （6）その他、当方が不適切と判断する行為
+第3条（本サービスの提供の停止等） 当方は、以下のいずれかの事由があると判断した場合、ユーザーに事前に通知することなく本サービスの全部または一部の提供を停止または中断することができるものとします。
+（1）本サービス、にかかるコンピュータシステムの保守点検または更新を行う場合 （2）地震、落雷、火災、停電または天災などの不可抗力により、本サービスの提供が困難となった場合 （3）コンピュータまたは通信回線等が事故により停止した場合 （4）その他、当方が本サービスの提供が困難と判断した場合 当方は、本サービスの提供の停止または中断により、ユーザーまたは第三者が被ったいかなる不利益または損害について、理由を問わず一切の賠償義務を負いません
+第4条（免責事項） 当方の債務不履行責任は、当方の故意または重過失によらない場合には免責されるものとします。 当方は、本サービスに関して、ユーザーと他のユーザーまたは第三者との間において生じた取引、連絡または紛争等について一切責任を負いません。
+第5条（サービス内容の変更等） 当方は、ユーザーに通知することなく、本サービスの内容を変更しまたは本サービスの提供を中止することができるものとし、これによってユーザーに生じた損害について一切の責任を負いません。 データ、情報等が破損または滅失することがあることを、あらかじめ承諾するものとします。
+第6条（利用規約の変更） 当方は、必要と判断した場合には、ユーザーに通知することなくいつでも本規約を変更することができるものとします。
+第7条（通知または連絡） ユーザーと当方との間の通知または連絡は、当方の定める方法によって行うものとします。
+第8条（権利義務の譲渡の禁止） ユーザーは、当方の書面による事前の承諾なく、利用契約上の地位または本規約に基づく権利もしくは義務を第三者に譲渡し、または担保に供することはできません。
+第9条（準拠法・裁判管轄） 本規約の解釈にあたっては、日本法を準拠法とします。 本サービスに関して紛争が生じた場合には、当方の所在地を管轄する裁判所を専属的合意管轄とします。</description>
+    </item>
+    
+  </channel>
+</rss>
