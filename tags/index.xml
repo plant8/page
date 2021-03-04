@@ -5,10 +5,6 @@
     <link>https://kankyo.tk/tags/</link>
     <description>Recent content in Tags on factory</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language>
-    
-	<atom:link href="https://kankyo.tk/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>ja</language><atom:link href="https://kankyo.tk/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
