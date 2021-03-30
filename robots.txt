@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /post/privacypolicy/
+Disallow: /post/terms/
+
+Sitemap: https://kankyo.tk/sitemap.xml
