@@ -6,7 +6,27 @@
     <description>Recent content on factory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Sep 2021 09:54:24 +0900</lastBuildDate><atom:link href="https://kankyo.tk/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Oct 2021 09:54:24 +0900</lastBuildDate><atom:link href="https://kankyo.tk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>もくもく英単語</title>
+      <link>https://kankyo.tk/post/tango/</link>
+      <pubDate>Wed, 06 Oct 2021 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/tango/</guid>
+      <description>もくもく英単語とは? もくもくと三択英単語問題を解くアプリです。
+鬱陶しい演出などはありません。
+問題の文字を触ると問題を読み上げます。
+※英語版では日本語辞書を登録すると読み上げます。
+猫を触ると答えの候補を読み上げます。
+それではひたすら問題を解きましょう！
+ JP
+ How to use. This is an application for solving three-choice English word problems.
+There are no annoying effects.
+If you touch the letters of the question, the question will be read out loud.
+In the English version, if you register a Japanese dictionary, it will read the question out loud.
+When you touch the cat, it will read out the possible answers.</description>
+    </item>
+    
     <item>
       <title>録音するゾウ</title>
       <link>https://kankyo.tk/post/ninja/</link>
