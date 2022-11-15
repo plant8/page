@@ -41,26 +41,6 @@ Simple action.
     </item>
     
     <item>
-      <title>もくもく英単語</title>
-      <link>https://kankyo.tk/post/tango/</link>
-      <pubDate>Wed, 06 Oct 2021 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo.tk/post/tango/</guid>
-      <description>もくもく英単語とは? もくもくと三択英単語問題を解くアプリです。
-鬱陶しい演出などはありません。
-問題の文字を触ると問題を読み上げます。
-※英語版では日本語辞書を登録すると読み上げます。
-猫を触ると答えの候補を読み上げます。
-それではひたすら問題を解きましょう！
- JP
- How to use. This is an application for solving three-choice English word problems.
-There are no annoying effects.
-If you touch the letters of the question, the question will be read out loud.
-In the English version, if you register a Japanese dictionary, it will read the question out loud.
-When you touch the cat, it will read out the possible answers.</description>
-    </item>
-    
-    <item>
       <title>録音するゾウ</title>
       <link>https://kankyo.tk/post/ninja/</link>
       <pubDate>Mon, 06 Sep 2021 09:54:24 +0900</pubDate>
@@ -196,29 +176,6 @@ Install all the parts and create a beautiful gradation.
     </item>
     
     <item>
-      <title>フリダヤタッチ2</title>
-      <link>https://kankyo.tk/post/zen/</link>
-      <pubDate>Wed, 22 Jan 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo.tk/post/zen/</guid>
-      <description> お知らせ  フリダヤタッチ2とは? このアプリは般若心経を気軽に体験できます。
-ルールは単純です。
-バラバラになったお教の中から、
-お教の順番通りに文字を見つけその文字をタッチします。 (ヒントが円の中心に表示されるので、初めて遊ぶ方でもクリア可能です。)
-すべての文字をタッチするとクリアです。
-クリアまでの時間を競います。
- JP
- information What is the Hrdaya Touch?
-Feel the Hrdaya.
-How to play
- Focus on the character in the center of the circle. Look for the character from the outside of the circle. Find and tap.
-Compete for time to fill.   US
- source 効果音: 無料効果音で遊ぼう！
-フォント: 青柳隷書しも
- </description>
-    </item>
-    
-    <item>
       <title>毎日漢字クロスワード</title>
       <link>https://kankyo.tk/post/crosskanji/</link>
       <pubDate>Sat, 18 Jan 2020 09:54:24 +0900</pubDate>
@@ -319,6 +276,21 @@ https://firebase.google.com/terms/?hl=ja
 第7条（通知または連絡） ユーザーと当方との間の通知または連絡は、当方の定める方法によって行うものとします。
 第8条（権利義務の譲渡の禁止） ユーザーは、当方の書面による事前の承諾なく、利用契約上の地位または本規約に基づく権利もしくは義務を第三者に譲渡し、または担保に供することはできません。
 第9条（準拠法・裁判管轄） 本規約の解釈にあたっては、日本法を準拠法とします。 本サービスに関して紛争が生じた場合には、当方の所在地を管轄する裁判所を専属的合意管轄とします。</description>
+    </item>
+    
+    <item>
+      <title>開発支援-Support</title>
+      <link>https://kankyo.tk/post/support/</link>
+      <pubDate>Wed, 01 Jan 2020 08:29:11 +0900</pubDate>
+      
+      <guid>https://kankyo.tk/post/support/</guid>
+      <description>いつも当アプリをご利用いただきありがとうございます。
+現在PayPalおよびAmazonを通じて支援を受け付けています。
+プロジェクトを後援してくださったすべての方々に感謝いたします。
+Thank you for using our app.
+We are now accepting donations through PayPal and Amazon.
+Thank you to all who have sponsored this project.
+ PayPalで支援 - Support with PayPal &amp;raquo; PayPal  アマゾンギフト券で支援 - Support with Amazon &amp;raquo; Amazon  配送で「Eメール」を選択します。 受取人の欄にメールアドレス「kankyo202+factory*gmail.com」を入力（アスタリスクをアットマークに変更） 送り主の欄にご自身のお名前(任意)を入力します。   </description>
     </item>
     
   </channel>
