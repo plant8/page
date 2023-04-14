@@ -6,7 +6,65 @@
     <description>Recent content on factory</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Sat, 30 Jul 2022 09:54:24 +0900</lastBuildDate><atom:link href="https://kankyo8.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Apr 2023 09:54:24 +0900</lastBuildDate><atom:link href="https://kankyo8.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>オサンプラー(oSampler)</title>
+      <link>https://kankyo8.com/post/chop/</link>
+      <pubDate>Fri, 14 Apr 2023 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo8.com/post/chop/</guid>
+      <description>お知らせ v4.0 こんにちは。最新バージョンの登場です。ほぼ作り直しです。
+注意:自動演奏は廃止となりました。演奏の記録が消えると問題がある方はアップデートを控えて下さい。
+アプリの名前を変更しました。
+ほぼ全ての機能をトップ画面に移動しました。
+パッドの演奏を録音出来るようになりました。
+Map機能の廃止。
+パッドをコピー出来ます。
+音源をチョップ(トリミング)出来るようになりました。
+逆再生ボタンを追加。
+ノイズジェネレーターを追加。
+パッドを連打するボタンを追加。
+旧自動演奏を廃止し、ヨレるドラムマシーン風の自動演奏に変更しました。
+自動演奏の分割数は3~16。
+パッドの表示をデフォルトで12個ずつに戻しました。
+パッドを全部表示する機能を追加。
+全画面広告の廃止。
+不具合の修正
+画面端のボタンが遅延するのを解消しました。
+v3.0 廃止になる機能もありますので、ご確認ください。
+広告を消す機能は延期となりました。
+いくつかの新機能と不具合の修正です。
+名前が変わりました。 イチニノサンプラー　-&amp;gt; サンプラーサン
+録音可能数が45に増えました。
+一番のパッドに録音した音をワンタッチで分割できます。
+簡易シーケンサーが新しくなりました。
+v1.4 ファイルappからファイルの取り込みができます。
+ファイルappへ初期状態の音楽ファイルを書き出せます。
+(自分のファイルのバックアップとしての書き出し機能です。違法な音声の書き出しは禁止です。)
+padボタンに名前が付けられます。
+ドラムボタンの廃止。
+廃止されたドラムのボタンに録音ができるようになりました。
+上部の三角ボタンで機能が隠せます。
+pitchが100ごとに上がるキーボード風ボタンの追加。
+スライダーout/hpf/lpf/volume/time/pitchの文字をダブルタップすると、
+スライダーが初期位置にもどります。
+おまけでボタン名読み上げボタンの追加。
+v1.3.1 パータンを記録できます。
+各音でボリュームをいじる。
+各音でピッチをいじる。
+各音で再生速度をいじる。
+低音を切ったり高音を切ったり。
+音を悪く録音できます。
+録音でundoを使えます。
+サンプラーサンとは? お手軽サンプラーです。
+工夫して録音すると良い感じになります。
+lo-fiな感じに録音できます。
+ボタンを押して離すだけで録音ができます。
+著作権は守りましょう。
+JP
+information v4.0 Hello. Here is the latest version. Almost everything has been reworked.</description>
+    </item>
+    
     <item>
       <title>オサラカメラ</title>
       <link>https://kankyo8.com/post/camdish/</link>
@@ -24,7 +82,7 @@
 日本語化。
 広告の変更。
 不具合の修正。
-オサラカメラカメラとは? 料理を完璧な角度で写真に残したい。
+オサラカメラとは? 料理を完璧な角度で写真に残したい。
 そんな夢をかなえるカメラアプリです。
 操作は簡単。水平器に合わせて撮影するだけ。
 完璧な角度でワンランク上の1枚を作りましょう。
@@ -65,51 +123,6 @@ You can set the recording sensitivity.
 When the shuriken is spinning, the recording is being made.
 Touch the shuriken to stop recording and go to the settings screen.
 All recorded data will be saved in a file.</description>
-    </item>
-    
-    <item>
-      <title>サンプラーサン</title>
-      <link>https://kankyo8.com/post/chop/</link>
-      <pubDate>Thu, 17 Sep 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/chop/</guid>
-      <description>お知らせ v3.0 廃止になる機能もありますので、ご確認ください。
-広告を消す機能は延期となりました。
-いくつかの新機能と不具合の修正です。
-名前が変わりました。 イチニノサンプラー　-&amp;gt; サンプラーサン
-録音可能数が45に増えました。
-一番のパッドに録音した音をワンタッチで分割できます。
-簡易シーケンサーが新しくなりました。
-v1.4 ファイルappからファイルの取り込みができます。
-ファイルappへ初期状態の音楽ファイルを書き出せます。
-(自分のファイルのバックアップとしての書き出し機能です。違法な音声の書き出しは禁止です。)
-padボタンに名前が付けられます。
-ドラムボタンの廃止。
-廃止されたドラムのボタンに録音ができるようになりました。
-上部の三角ボタンで機能が隠せます。
-pitchが100ごとに上がるキーボード風ボタンの追加。
-スライダーout/hpf/lpf/volume/time/pitchの文字をダブルタップすると、
-スライダーが初期位置にもどります。
-おまけでボタン名読み上げボタンの追加。
-v1.3.1 パータンを記録できます。
-各音でボリュームをいじる。
-各音でピッチをいじる。
-各音で再生速度をいじる。
-低音を切ったり高音を切ったり。
-音を悪く録音できます。
-録音でundoを使えます。
-demo
-サンプラーサンとは? お手軽サンプラーです。
-工夫して録音すると良い感じになります。
-lo-fiな感じに録音できます。
-ボタンを押して離すだけで録音ができます。
-ボタンを押した順番を少し記録できます。
-著作権は守りましょう。
-JP
-information v3.0 Here are some new features and bug fixes.
-Some features will be discontinued, so please check back.
-The ability to remove ads has been postponed.
-The name has been changed.</description>
     </item>
     
     <item>
