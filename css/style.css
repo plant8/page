@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+aside {
+    margin-bottom: 2em;
+}
+main {
+    margin-bottom: 2em;
+}
+
+footer p {
+    margin-bottom: 0.2em;
+}
