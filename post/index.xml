@@ -6,14 +6,23 @@
     <description>Recent content in Posts on plant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Apr 2023 09:54:24 +0900</lastBuildDate><atom:link href="https://kankyo8.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Nov 2025 09:54:24 +0900</lastBuildDate><atom:link href="https://kankyo8.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>毎日クロスワードデラックス</title>
+      <link>https://kankyo8.com/post/crossdx/</link>
+      <pubDate>Mon, 17 Nov 2025 09:54:24 +0900</pubDate>
+      
+      <guid>https://kankyo8.com/post/crossdx/</guid>
+      <description>毎日クロスワードデラックスとは? だれでも簡単クロスワード。 カタカナと漢字のクロスワードが楽しめます。 簡単操作で、複雑な操作が苦手な方でも安心</description>
+    </item>
+    
     <item>
       <title>オサンプラー(oSampler)</title>
       <link>https://kankyo8.com/post/chop/</link>
       <pubDate>Fri, 14 Apr 2023 09:54:24 +0900</pubDate>
       
       <guid>https://kankyo8.com/post/chop/</guid>
-      <description>お知らせ v4.2 設定からパッドの反応速度が調整可能になりました。初回起動時は一番遅くなっています。(古い機種は速度を上げ過ぎるとノイズがでます) 再</description>
+      <description>サンプラーサンとは? お手軽サンプラーです。 複雑な操作はほとんどありません。 いろいろな音を録音してチョップしましょう。 ※著作権は守りましょう。</description>
     </item>
     
     <item>
@@ -22,16 +31,16 @@
       <pubDate>Sat, 30 Jul 2022 09:54:24 +0900</pubDate>
       
       <guid>https://kankyo8.com/post/camdish/</guid>
-      <description>お知らせ 3.0 - 大規模なアップデートです。 注意! 今回のバージョンアップは大規模な変更があります。 前バージョンが必要な方はバージョンアップを見送っ</description>
+      <description>オサラカメラとは? 料理を完璧な角度で写真に残したい。 そんな夢をかなえるカメラアプリです。 静かな店内でも撮影できるように、 シャッター音をマイル</description>
     </item>
     
     <item>
-      <title>録音するゾウ</title>
+      <title>キクヨ</title>
       <link>https://kankyo8.com/post/ninja/</link>
       <pubDate>Mon, 06 Sep 2021 09:54:24 +0900</pubDate>
       
       <guid>https://kankyo8.com/post/ninja/</guid>
-      <description>録音するゾウとは? 最速(当社比)で録音が開始できます。 アプリを起動するだけで録音が開始されます。 NOタッチで録音です。 録音感度が設定できます</description>
+      <description>キクヨとは? 最速(当社比)で録音が開始できます。 アプリを起動するだけで録音が開始されます。 タッチ無しでで自動録音です。 録音感度が設定できます</description>
     </item>
     
     <item>
@@ -40,7 +49,7 @@
       <pubDate>Thu, 25 Jun 2020 09:54:24 +0900</pubDate>
       
       <guid>https://kankyo8.com/post/zen5/</guid>
-      <description>お知らせ 2020.6.28開始 フリダヤ5とは? 般若心経を気軽に体験できるアプリです。 頭のトレーニングに最適です。 ルールは単純です。 お教の順番</description>
+      <description>フリダヤ5とは? 般若心経を気軽に体験できるアプリです。 頭のトレーニングに最適です。 最初の画面で”判断ボタン”を押すと従来のゲームが遊べます。</description>
     </item>
     
     <item>
@@ -59,24 +68,6 @@
       
       <guid>https://kankyo8.com/post/ez/</guid>
       <description>お知らせ やさしいパズルとは? 色と形を手がかりに解くパズルです。 パズルの部品は指で移動できます。 移動している部品は灰色の点の上で指を離すと設置</description>
-    </item>
-    
-    <item>
-      <title>毎日漢字クロスワード</title>
-      <link>https://kankyo8.com/post/crosskanji/</link>
-      <pubDate>Sat, 18 Jan 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/crosskanji/</guid>
-      <description>お知らせ 毎日漢字クロスワードとは? 毎日シリーズ第2弾今度は漢字クロスワード! 今回犬を搭載しました。 毎日クリアするたびに犬が大きくなります。 プ</description>
-    </item>
-    
-    <item>
-      <title>毎日クロスワード</title>
-      <link>https://kankyo8.com/post/cross/</link>
-      <pubDate>Fri, 17 Jan 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/cross/</guid>
-      <description>お知らせ 毎日クロスワードとは? 今までのクロスワードには難しい操作が必要でした。しかし、もう大丈夫! 四角形の青色マスをタッチしてキーを選び、 5</description>
     </item>
     
     <item>
