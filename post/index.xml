@@ -2,109 +2,88 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on plant</title>
-    <link>https://kankyo8.com/post/</link>
+    <link>http://localhost:1313/post/</link>
     <description>Recent content in Posts on plant</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Nov 2025 09:54:24 +0900</lastBuildDate><atom:link href="https://kankyo8.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Nov 2025 09:54:24 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>毎日クロスワードデラックス</title>
-      <link>https://kankyo8.com/post/crossdx/</link>
+      <link>http://localhost:1313/post/crossdx/</link>
       <pubDate>Mon, 17 Nov 2025 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/crossdx/</guid>
-      <description>毎日クロスワードデラックスとは? だれでも簡単クロスワード。 カタカナと漢字のクロスワードが楽しめます。 簡単操作で、複雑な操作が苦手な方でも安心</description>
+      <guid>http://localhost:1313/post/crossdx/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./crossdx_icon.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;毎日クロスワードデラックスとは&#34;&gt;毎日クロスワードデラックスとは?&lt;/h2&gt;&#xA;&lt;p&gt;だれでも簡単クロスワード。&lt;br&gt;&#xA;カタカナと漢字のクロスワードが楽しめます。&lt;br&gt;&#xA;簡単操作で、複雑な操作が苦手な方でも安心です。&lt;br&gt;&#xA;四角形のマスをタッチしてキーを選び、&lt;br&gt;&#xA;表示される文字の中から当てはまるものを選ぶだけ。&lt;br&gt;&#xA;使いにくいキーボード入力は不要です。&lt;br&gt;&#xA;問題をクリアするたびに成長する犬は、&lt;br&gt;&#xA;今作でパワーアップして3Dになりました。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>オサンプラー(oSampler)</title>
-      <link>https://kankyo8.com/post/chop/</link>
+      <link>http://localhost:1313/post/chop/</link>
       <pubDate>Fri, 14 Apr 2023 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/chop/</guid>
-      <description>サンプラーサンとは? お手軽サンプラーです。 複雑な操作はほとんどありません。 いろいろな音を録音してチョップしましょう。 ※著作権は守りましょう。</description>
+      <guid>http://localhost:1313/post/chop/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./chop_icon.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;サンプラーサンとは&#34;&gt;サンプラーサンとは?&lt;/h2&gt;&#xA;&lt;p&gt;お手軽サンプラーです。&lt;br&gt;&#xA;複雑な操作はほとんどありません。&lt;br&gt;&#xA;いろいろな音を録音してチョップしましょう。&lt;br&gt;&#xA;※著作権は守りましょう。&lt;br&gt;&#xA;※音量控えめ耳を大切に。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>オサラカメラ</title>
-      <link>https://kankyo8.com/post/camdish/</link>
+      <link>http://localhost:1313/post/camdish/</link>
       <pubDate>Sat, 30 Jul 2022 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/camdish/</guid>
-      <description>オサラカメラとは? 料理を完璧な角度で写真に残したい。 そんな夢をかなえるカメラアプリです。 静かな店内でも撮影できるように、 シャッター音をマイル</description>
+      <guid>http://localhost:1313/post/camdish/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./cam_icon.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;オサラカメラとは&#34;&gt;オサラカメラとは?&lt;/h2&gt;&#xA;&lt;p&gt;料理を完璧な角度で写真に残したい。&lt;br&gt;&#xA;そんな夢をかなえるカメラアプリです。&lt;/p&gt;&#xA;&lt;p&gt;静かな店内でも撮影できるように、&lt;br&gt;&#xA;シャッター音をマイルドにチューニング済みです。&lt;br&gt;&#xA;黄金比のガイドもあります。&lt;br&gt;&#xA;明るさの調整が可能です。&lt;br&gt;&#xA;水平器によるこだわりの角度での撮影も可能です。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>キクヨ</title>
-      <link>https://kankyo8.com/post/ninja/</link>
+      <link>http://localhost:1313/post/ninja/</link>
       <pubDate>Mon, 06 Sep 2021 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/ninja/</guid>
-      <description>キクヨとは? 最速(当社比)で録音が開始できます。 アプリを起動するだけで録音が開始されます。 タッチ無しでで自動録音です。 録音感度が設定できます</description>
+      <guid>http://localhost:1313/post/ninja/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./ninja_icon.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;キクヨとは&#34;&gt;キクヨとは?&lt;/h2&gt;&#xA;&lt;p&gt;最速(当社比)で録音が開始できます。&lt;br&gt;&#xA;アプリを起動するだけで録音が開始されます。&lt;br&gt;&#xA;タッチ無しでで自動録音です。&lt;br&gt;&#xA;録音感度が設定できます。&lt;br&gt;&#xA;手裏剣が回っていると録音されています。&lt;br&gt;&#xA;手裏剣をタッチすると録音を停止し、設定画面へ移動します。&lt;br&gt;&#xA;録音済データは全てファイルに保存されます。&lt;br&gt;&#xA;データは日付ごとに分けられます。&lt;br&gt;&#xA;データは録音開始時間毎に作られます。&lt;br&gt;&#xA;背景画像が変更可能です。&lt;br&gt;&#xA;著作権は守りましょう。&lt;br&gt;&#xA;違法な利用、差別的な利用を禁止します。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>フリダヤ5</title>
-      <link>https://kankyo8.com/post/zen5/</link>
+      <link>http://localhost:1313/post/zen5/</link>
       <pubDate>Thu, 25 Jun 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/zen5/</guid>
-      <description>フリダヤ5とは? 般若心経を気軽に体験できるアプリです。 頭のトレーニングに最適です。 最初の画面で”判断ボタン”を押すと従来のゲームが遊べます。</description>
+      <guid>http://localhost:1313/post/zen5/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./zen5_icon.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;フリダヤ5とは&#34;&gt;フリダヤ5とは?&lt;/h2&gt;&#xA;&lt;p&gt;般若心経を気軽に体験できるアプリです。&lt;br&gt;&#xA;頭のトレーニングに最適です。&lt;/p&gt;&#xA;&lt;p&gt;最初の画面で”判断ボタン”を押すと従来のゲームが遊べます。&lt;br&gt;&#xA;“速度ボタン”を押すと復活した早探しゲームを遊べます。&lt;br&gt;&#xA;“天運ボタン”を押すとガチャが引けます。&lt;br&gt;&#xA;“記録ボタン”を押すと今までの収集した神様一覧が表示されます。&lt;br&gt;&#xA;“声ボタン”を押すと判断ゲームの読み上げを切り替えられます。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>イロハポン</title>
-      <link>https://kankyo8.com/post/iro/</link>
+      <link>http://localhost:1313/post/iro/</link>
       <pubDate>Mon, 25 May 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/iro/</guid>
-      <description>お知らせ ファミ通appでも取り上げていただいた、 このアプリが大規模にアップデート!! 遊べるゲームが２つ増え 全部で３つになりました。 １つは同じ</description>
+      <guid>http://localhost:1313/post/iro/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./iro_icon.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;お知らせ&#34;&gt;お知らせ&lt;/h2&gt;&#xA;&lt;p&gt;ファミ通appでも取り上げていただいた、&lt;br&gt;&#xA;このアプリが大規模にアップデート!!&lt;br&gt;&#xA;遊べるゲームが２つ増え 全部で３つになりました。&lt;br&gt;&#xA;１つは同じ色の組み合わせを作るゲームです。&lt;br&gt;&#xA;もう１つは様々な色や形の6ピースパズルです。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>やさしいパズル</title>
-      <link>https://kankyo8.com/post/ez/</link>
+      <link>http://localhost:1313/post/ez/</link>
       <pubDate>Wed, 25 Mar 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/ez/</guid>
-      <description>お知らせ やさしいパズルとは? 色と形を手がかりに解くパズルです。 パズルの部品は指で移動できます。 移動している部品は灰色の点の上で指を離すと設置</description>
+      <guid>http://localhost:1313/post/ez/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;./ez_icon.png&#34; alt=&#34;alt&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;お知らせ&#34;&gt;お知らせ&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;やさしいパズルとは&#34;&gt;やさしいパズルとは?&lt;/h2&gt;&#xA;&lt;p&gt;色と形を手がかりに解くパズルです。&lt;br&gt;&#xA;パズルの部品は指で移動できます。&lt;br&gt;&#xA;移動している部品は灰色の点の上で指を離すと設置できます。&lt;br&gt;&#xA;部品を全部設置し綺麗なグラデーションをつくりましょう。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>プライバシーポリシー</title>
-      <link>https://kankyo8.com/post/privacypolicy/</link>
+      <link>http://localhost:1313/post/privacypolicy/</link>
       <pubDate>Thu, 09 Jan 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/privacypolicy/</guid>
-      <description>本プライバシーポリシーは、kankyo（以下、「当方」といいます。）が、 提供するアプリケーション（以下、「本アプリ」といいます。）におけるプ</description>
+      <guid>http://localhost:1313/post/privacypolicy/</guid>
+      <description>&lt;p&gt;本プライバシーポリシーは、kankyo（以下、「当方」といいます。）が、 提供するアプリケーション（以下、「本アプリ」といいます。）におけるプライバシー情報の取扱いについて定めるものです。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>利用規約</title>
-      <link>https://kankyo8.com/post/terms/</link>
+      <link>http://localhost:1313/post/terms/</link>
       <pubDate>Tue, 07 Jan 2020 09:54:24 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/terms/</guid>
-      <description>利用規約 この利用規約（以下、「本規約」といいます。）は、kankyo（以下、「当方」といいます。）がこのウェブサイト上で提供するサービスおよ</description>
+      <guid>http://localhost:1313/post/terms/</guid>
+      <description>&lt;p&gt;利用規約&#xA;この利用規約（以下、「本規約」といいます。）は、kankyo（以下、「当方」といいます。）がこのウェブサイト上で提供するサービスおよび当方が開発したアプリケーション（以下、「本サービス」といいます。）の利用条件を定めるものです。&#xA;ユーザーの皆さま（以下、「ユーザー」といいます。）には、本規約に従って、本サービスをご利用いただきます。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>特定商取引法に基づく表記</title>
-      <link>https://kankyo8.com/post/transaction/</link>
+      <link>http://localhost:1313/post/transaction/</link>
       <pubDate>Tue, 07 Jan 2020 09:54:24 +1000</pubDate>
-      
-      <guid>https://kankyo8.com/post/transaction/</guid>
-      <description>特定商取引法に基づく表記 販売事業者名 kankyo 事業者の名称・連絡先 省略した記載については、電子メールの請求により開示いたします。 お問い合わせ こちらk</description>
+      <guid>http://localhost:1313/post/transaction/</guid>
+      <description>&lt;p&gt;特定商取引法に基づく表記&lt;/p&gt;&#xA;&lt;p&gt;販売事業者名 kankyo&lt;br&gt;&#xA;事業者の名称・連絡先 省略した記載については、電子メールの請求により開示いたします。&lt;br&gt;&#xA;お問い合わせ こちらkankyo202+plant*gmail.com(*を@に変更)からお問い合わせください。&lt;br&gt;&#xA;販売価格 購入画面に表示されます。消費税は内税として表示しております。&lt;br&gt;&#xA;販売価格以外でお客様に発生する金銭 ページの閲覧、コンテンツ購入、ダウンロード等に必要となるインターネット接続料金、通信料金は、お客様のご負担となります。&lt;br&gt;&#xA;お支払方法 購入にかかる決済を代行する会社が提供するお支払方法をご利用いただけます。&lt;br&gt;&#xA;デジタルアイテム等の利用が可能となる時期 お支払い手続き完了後直ちにご利用いただけます。&lt;br&gt;&#xA;動作環境  各アプリケーションの詳細ページで利用環境・対応機種をダウンロードの前にご確認ください。&lt;br&gt;&#xA;返品・キャンセル App Store・Google Playなどの各アプリケーション提供サイトの取り決めに従うこととします。&lt;/p&gt;</description>
     </item>
-    
     <item>
       <title>開発支援-Support</title>
-      <link>https://kankyo8.com/post/support/</link>
+      <link>http://localhost:1313/post/support/</link>
       <pubDate>Wed, 01 Jan 2020 08:29:11 +0900</pubDate>
-      
-      <guid>https://kankyo8.com/post/support/</guid>
-      <description>いつも当アプリをご利用いただきありがとうございます。 現在PayPalおよびAmazonを通じて支援を受け付けています。 プロジェクトを後援して</description>
+      <guid>http://localhost:1313/post/support/</guid>
+      <description>&lt;p&gt;いつも当アプリをご利用いただきありがとうございます。&lt;br&gt;&#xA;現在PayPalおよびAmazonを通じて支援を受け付けています。&lt;br&gt;&#xA;プロジェクトを後援してくださったすべての方々に感謝いたします。&lt;/p&gt;</description>
     </item>
-    
   </channel>
 </rss>

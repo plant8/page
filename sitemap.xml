@@ -2,47 +2,47 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kankyo8.com/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2025-11-17T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/</loc>
+    <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-11-17T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/crossdx/</loc>
+    <loc>http://localhost:1313/post/crossdx/</loc>
     <lastmod>2025-11-17T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/chop/</loc>
+    <loc>http://localhost:1313/post/chop/</loc>
     <lastmod>2023-04-14T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/camdish/</loc>
+    <loc>http://localhost:1313/post/camdish/</loc>
     <lastmod>2022-07-30T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/ninja/</loc>
+    <loc>http://localhost:1313/post/ninja/</loc>
     <lastmod>2021-09-06T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/zen5/</loc>
+    <loc>http://localhost:1313/post/zen5/</loc>
     <lastmod>2020-06-25T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/iro/</loc>
+    <loc>http://localhost:1313/post/iro/</loc>
     <lastmod>2020-05-25T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/ez/</loc>
+    <loc>http://localhost:1313/post/ez/</loc>
     <lastmod>2020-03-25T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/privacypolicy/</loc>
+    <loc>http://localhost:1313/post/privacypolicy/</loc>
     <lastmod>2020-01-09T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/terms/</loc>
+    <loc>http://localhost:1313/post/terms/</loc>
     <lastmod>2020-01-07T09:54:24+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/transaction/</loc>
+    <loc>http://localhost:1313/post/transaction/</loc>
     <lastmod>2020-01-07T09:54:24+10:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/post/support/</loc>
+    <loc>http://localhost:1313/post/support/</loc>
     <lastmod>2020-01-01T08:29:11+09:00</lastmod>
   </url><url>
-    <loc>https://kankyo8.com/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
   </url><url>
-    <loc>https://kankyo8.com/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
   </url>
 </urlset>
